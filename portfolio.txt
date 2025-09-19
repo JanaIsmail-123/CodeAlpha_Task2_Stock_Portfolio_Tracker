@@ -1,0 +1,5 @@
+Your Portfolio:
+AAPL: 4 × $180 = $720
+GOOGL: 2 × $140 = $280
+
+Total Investment Value: $1000
